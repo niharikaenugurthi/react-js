@@ -1,38 +1,33 @@
-📝 Notes App
+# React Notes App
 
-A simple and clean Notes App built using React.
-Users can create and manage notes with an easy-to-use interface.
+A simple and responsive Notes Application built using React.
 
-🚀 Features
-➕ Add Notes
-❌ Delete Notes
-⚡ Fast and Responsive UI
-📱 Mobile Friendly
-🎨 Clean User Interface
-🛠️ Tech Stack
-React
-JavaScript
-CSS / Tailwind CSS
-📂 Project Structure
-src/
- ├── components/
- ├── App.jsx
- ├── main.jsx
- └── index.css
-⚙️ Installation
+This app allows users to create and delete notes dynamically with a clean user interface.
+
+---
+
+## 🚀 Features
+
+- Add Notes
+- Delete Notes
+- Dynamic Note Rendering
+- Responsive UI
+- React Hooks usage
+- Simple and clean design
+
+---
+
+## 🛠 Technologies Used
+
+- React JS
+- JavaScript
+- Tailwind CSS
+
+---
+
+## 📦 Installation
 
 Clone the repository:
 
-git clone <your-repo-link>
-
-Navigate to the project folder:
-
-cd notes-app
-
-Install dependencies:
-
-npm install
-
-Run the development server:
-
-npm run dev
+```bash
+git clone <https://github.com/niharikaenugurthi/react-js/edit/main/notes-app>

@@ -34,7 +34,7 @@ The app fetches images dynamically from the Picsum API and displays them in a sc
 Clone the repository:
 
 ```bash
-git clone <your-repo-link>
+git clone <https://github.com/niharikaenugurthi/react-js/tree/main/gallery-project>
 
 Move into project folder:
 
